@@ -1,0 +1,8 @@
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\bin\Debug\cahracteraccessprojec.exe.config
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\bin\Debug\cahracteraccessprojec.exe
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\bin\Debug\cahracteraccessprojec.pdb
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\obj\Debug\cahracteraccessprojec.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\obj\Debug\cahracteraccessprojec.csproj.CoreCompileInputs.cache
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\obj\Debug\cahracteraccessprojec.exe
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\obj\Debug\cahracteraccessprojec.pdb
+C:\Users\Goutam\source\repos\cahracteraccessprojec\cahracteraccessprojec\obj\Debug\cahracteraccessprojec.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\bin\Debug\LinkAsg1.exe.config
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\bin\Debug\LinkAsg1.exe
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\bin\Debug\LinkAsg1.pdb
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\obj\Debug\LinkAsg1.csproj.AssemblyReference.cache
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\obj\Debug\LinkAsg1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\obj\Debug\LinkAsg1.csproj.CoreCompileInputs.cache
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\obj\Debug\LinkAsg1.exe
+C:\Users\Goutam\source\repos\LinkAsg1\LinkAsg1\obj\Debug\LinkAsg1.pdb

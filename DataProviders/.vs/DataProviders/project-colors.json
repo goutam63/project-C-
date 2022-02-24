@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab40c2d3-6ffd-439d-944f-09d7292604e1": {
+      "ProjectGuid": "ab40c2d3-6ffd-439d-944f-09d7292604e1",
+      "DisplayName": "DataProviders",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
